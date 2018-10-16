@@ -1,5 +1,7 @@
 # Таблица Vue.js + localStorage
 
+Демо: https://nnqq.github.io/vuejs-table-localstorage/
+
 Возможности на данный момент:
 * Добавление, изменение, удаление строк с ячейками
-* Храним данные в localStorage
+* Хранит данные в localStorage
